@@ -5,5 +5,6 @@ public class App {
         System.out.println("Niteesh");
         System.out.println("Rahul");
         System.out.println("Ankit");
+        System.out.flush();
     }
 }
